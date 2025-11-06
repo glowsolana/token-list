@@ -5,5 +5,10 @@
   "name": "Wave Swap",
   "decimals": 9,
   "logoURI": "https://i.ibb.co/5gRqPqPv/wave0.png",
-  "tags": ["utility", "defi", "culture"]
+  "tags": ["utility", "defi", "culture"],
+  "extensions": {
+    "website": "https://securethebag.fun/",
+    "coingeckoId": "wave-swap",
+    "twitter": "https://x.com/securethebagfun"
+  }
 }
